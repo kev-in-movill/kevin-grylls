@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kevin-grylls)](https://www.instagram.com/kevin_grylls)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-sanghyeon-you)](https://www.linkedin.com/in/kevin-sanghyeon-you)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-grylls&layout=compact)
 
 <!--
