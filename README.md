@@ -3,7 +3,7 @@
 
 ```javascript
 function Task(idea) {
-  /* Something Happen from idea */
+  /* Something happen from idea */
 }
 
 const Iam = new Task(idea);
